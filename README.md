@@ -1,4 +1,4 @@
-Hello! This repository replicates part of the study "Does Compulsory School Attendance Affect Schooling and Earnings?"
+Howdy! This repository replicates part of the study "Does Compulsory School Attendance Affect Schooling and Earnings?"
 
 The data is split into 3 separate cohorts by birth year: 1930-1939, 1940-1949, and 1950-1959.
 
