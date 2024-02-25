@@ -15,4 +15,3 @@ The code to run in VSC is labeled "Compulsory_Education_IV_Replication_VSC.py"
 The empirical example from Colab has been imported as well and can be found in the file titled "Compulsory_Education_IV_Replication.ipynb"
 
 The actual Colab version of the empirical example can be found using this link: https://colab.research.google.com/drive/1-G-qiAaJQEkk2DXXVH1nr3GsIpduhUa5?usp=sharing
-
